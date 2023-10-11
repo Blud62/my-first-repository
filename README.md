@@ -1,4 +1,4 @@
-#Learning Git
+READ ME
 
 Important steps for git worklow:
 
